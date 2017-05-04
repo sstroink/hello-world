@@ -1,4 +1,5 @@
 # hello-world
 Test repository 
 
-Adding some changes 
+
+Removing some things too
